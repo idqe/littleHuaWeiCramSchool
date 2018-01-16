@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+    Scanner in=new Scanner(System.in);
+    int huashi;
+    double sheshi;
+    huashi=in.nextInt();
+    sheshi=(huashi-32)/(9/5.0);
+    System.out.println((int)sheshi);
+    }
+}
