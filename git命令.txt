@@ -1,0 +1,6 @@
+git clone url
+#url ----ssh网址
+git add .
+git commit -m "备注"
+git push 
+git pull
